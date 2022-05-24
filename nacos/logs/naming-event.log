@@ -1,0 +1,44 @@
+2022-05-24 09:50:43,406 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: HZ, dead ips size: 1, content: [192.168.101.1:8082:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 09:50:43,406 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,192.168.101.1:8083_true,
+
+2022-05-24 09:50:48,191 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: HZ, dead ips size: 1, content: [192.168.101.1:8081:unknown:HZ_0.1_true_false_HZ]
+
+2022-05-24 09:50:48,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8083_true,
+
+2022-05-24 09:50:48,244 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.101.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-05-24 09:50:48,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-05-24 10:03:55,743 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: HZ, new ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:03:55,743 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,
+
+2022-05-24 10:05:48,379 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: HZ, dead ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:05:48,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-05-24 10:06:11,378 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: HZ, new ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:06:11,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,
+
+2022-05-24 10:14:18,825 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: HZ, dead ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:14:18,825 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-05-24 10:17:15,335 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: HZ, new ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:17:15,335 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,
+
+2022-05-24 10:29:00,957 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: HZ, dead ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:29:00,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-05-24 10:29:50,537 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: HZ, new ips size: 1, content: [192.168.101.1:8081:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:29:50,537 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,
+
+2022-05-24 10:29:55,412 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: HZ, new ips size: 1, content: [192.168.101.1:8082:unknown:HZ_1.0_true_false_HZ]
+
+2022-05-24 10:29:55,412 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.101.1:8081_true,192.168.101.1:8082_true,
+

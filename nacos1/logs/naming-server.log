@@ -1,0 +1,58 @@
+2022-05-24 09:50:43,406 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":0.1,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357042309,"marked":false,"app":"DEFAULT","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000},{"instanceId":"192.168.101.1#8083#SH#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8083,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"SH","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357042309,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 09:50:48,191 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8083#SH#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8083,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"SH","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357047314,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 09:50:48,244 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[]}
+
+2022-05-24 09:53:02,754 WARN namespace : public, [DEFAULT_GROUP@@userservice] services are automatically cleaned
+
+2022-05-24 09:53:02,777 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@userservice","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1653357048244,"checksum":"680ffcb359010025f5883c048a8c8a44","clusterMap":{"HZ":{"serviceName":"DEFAULT_GROUP@@userservice","name":"HZ","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80},"SH":{"serviceName":"DEFAULT_GROUP@@userservice","name":"SH","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80},"DEFAULT":{"serviceName":"DEFAULT_GROUP@@userservice","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2022-05-24 10:03:55,743 INFO creating empty service public:DEFAULT_GROUP@@userservice
+
+2022-05-24 10:03:55,743 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@userservice","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1653357835743,"checksum":"319c99f1fd9fc68a849621d51306c603","clusterMap":{},"empty":true}
+
+2022-05-24 10:03:55,743 WARN cluster: HZ not found, ip: {"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357835743,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}, will create new cluster with default configuration.
+
+2022-05-24 10:03:55,743 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357835743,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 10:05:48,379 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[]}
+
+2022-05-24 10:06:11,378 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653357971378,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 10:14:18,825 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[]}
+
+2022-05-24 10:16:32,752 WARN namespace : public, [DEFAULT_GROUP@@userservice] services are automatically cleaned
+
+2022-05-24 10:16:32,754 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@userservice","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1653358458825,"checksum":"0c7e40e1d9840d17856de7ee303a37df","clusterMap":{"HZ":{"serviceName":"DEFAULT_GROUP@@userservice","name":"HZ","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2022-05-24 10:17:15,333 INFO creating empty service public:DEFAULT_GROUP@@userservice
+
+2022-05-24 10:17:15,334 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@userservice","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1653358635333,"checksum":"319c99f1fd9fc68a849621d51306c603","clusterMap":{},"empty":true}
+
+2022-05-24 10:17:15,334 WARN cluster: HZ not found, ip: {"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653358635333,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}, will create new cluster with default configuration.
+
+2022-05-24 10:17:15,334 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653358635333,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 10:29:00,957 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[]}
+
+2022-05-24 10:29:50,536 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653359390536,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 10:29:55,412 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@userservice, value: {"instanceList":[{"instanceId":"192.168.101.1#8081#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8081,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653359390536,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000},{"instanceId":"192.168.101.1#8082#HZ#DEFAULT_GROUP@@userservice","ip":"192.168.101.1","port":8082,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"HZ","serviceName":"DEFAULT_GROUP@@userservice","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1653359395412,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2022-05-24 10:51:34,193 INFO GlobalConfig{taskDispatchPeriod=2000, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=false, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2022-05-24 10:51:35,118 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-05-24 10:51:35,119 INFO listen for service meta change
+
+2022-05-24 10:51:39,177 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.101.1:8845], new: [192.168.101.1:8845]
+
+2022-05-24 11:07:27,045 INFO GlobalConfig{taskDispatchPeriod=2000, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=false, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2022-05-24 11:07:28,033 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-05-24 11:07:28,034 INFO listen for service meta change
+
+2022-05-24 11:07:32,028 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.101.1:8845], new: [192.168.101.1:8845]
+

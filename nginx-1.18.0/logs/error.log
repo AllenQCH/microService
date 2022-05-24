@@ -1,0 +1,39 @@
+2022/05/24 11:01:04 [warn] 21464#9600: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:01:04 [warn] 10056#22508: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:01:09 [warn] 21776#7856: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:01:09 [warn] 21928#19580: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:01:27 [warn] 21632#21084: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:01:27 [warn] 3644#22096: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:02:13 [error] 10056#21352: *1 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:02:13 [error] 10056#21352: *1 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/nacos"
+2022/05/24 11:02:15 [error] 10056#21352: *1 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:02:42 [warn] 13724#21720: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:02:42 [warn] 21860#21584: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:03:26 [error] 10056#21352: *4 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:03:28 [error] 10056#21352: *7 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:03:28 [error] 10056#21352: *7 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:03:28 [error] 10056#21352: *7 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:03:28 [error] 10056#21352: *7 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:03:28 [error] 10056#21352: *7 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:05:05 [error] 10056#21352: *10 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:05:06 [error] 10056#21352: *10 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:05:07 [error] 10056#21352: *10 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:05:12 [warn] 14652#21896: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:05:12 [warn] 22396#16028: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:05:15 [error] 10056#21352: *13 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:05:17 [error] 10056#21352: *16 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:01 [warn] 9708#4792: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:01 [warn] 12456#21228: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:21 [warn] 20792#21268: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:21 [warn] 22324#21900: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:27 [warn] 15204#14464: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:27 [warn] 8468#12404: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2022/05/24 11:08:35 [error] 10056#21352: *19 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:36 [error] 10056#21352: *19 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:37 [error] 10056#21352: *19 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:37 [error] 10056#21352: *22 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:37 [error] 10056#21352: *22 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:08:38 [error] 10056#21352: *22 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:12:17 [error] 10056#21352: *24 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:15:10 [error] 10056#21352: *27 CreateFile() "E:\workStudy\microService\nginx-1.18.0/html/nacos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /nacos HTTP/1.1", host: "localhost"
+2022/05/24 11:15:22 [emerg] 22220#13624: invalid port in "88888" of the "listen" directive in E:\workStudy\microService\nginx-1.18.0/conf/nginx.conf:124

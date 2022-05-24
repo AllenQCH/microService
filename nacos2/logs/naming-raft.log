@@ -1,0 +1,92 @@
+2022-05-24 09:53:02,776 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userservice
+
+2022-05-24 10:03:55,743 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userservice
+
+2022-05-24 10:16:32,753 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@userservice
+
+2022-05-24 10:17:15,334 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@userservice
+
+2022-05-24 10:51:27,482 INFO raft peers changed: [Member{ip='192.168.101.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-05-24 10:51:27,521 INFO initializing Raft sub-system
+
+2022-05-24 10:51:27,669 INFO finish loading all datums, size: 1 cost 148 ms.
+
+2022-05-24 10:51:27,674 INFO cache loaded, datum count: 1, current term: 0
+
+2022-05-24 10:51:27,674 INFO finish to load data from disk, cost: 153 ms.
+
+2022-05-24 10:51:27,677 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-05-24 10:51:28,452 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-05-24 10:51:28,473 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-05-24 10:51:32,463 WARN start to close old raft protocol!!!
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for notifier
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for master task
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for heartbeat task
+
+2022-05-24 10:51:32,463 WARN clean old cache datum for old raft
+
+2022-05-24 10:51:32,463 WARN start to close old raft protocol!!!
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for notifier
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for master task
+
+2022-05-24 10:51:32,463 WARN stop old raft protocol task for heartbeat task
+
+2022-05-24 10:51:32,463 WARN clean old cache datum for old raft
+
+2022-05-24 10:51:32,463 WARN start to move old raft protocol metadata
+
+2022-05-24 10:51:32,469 WARN start to move old raft protocol metadata
+
+2022-05-24 10:51:32,470 INFO raft peers changed: [Member{ip='192.168.101.1', port=8846, state=UP, extendInfo={lastRefreshTime=1653360692468, raftPort=7846, version=1.4.1}}]
+
+2022-05-24 11:07:36,149 INFO raft peers changed: [Member{ip='192.168.101.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-05-24 11:07:36,181 INFO initializing Raft sub-system
+
+2022-05-24 11:07:36,300 INFO finish loading all datums, size: 1 cost 119 ms.
+
+2022-05-24 11:07:36,305 INFO cache loaded, datum count: 1, current term: 0
+
+2022-05-24 11:07:36,305 INFO finish to load data from disk, cost: 124 ms.
+
+2022-05-24 11:07:36,310 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2022-05-24 11:07:37,159 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2022-05-24 11:07:37,189 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2022-05-24 11:07:41,137 WARN start to close old raft protocol!!!
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for notifier
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for master task
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for heartbeat task
+
+2022-05-24 11:07:41,137 WARN clean old cache datum for old raft
+
+2022-05-24 11:07:41,137 WARN start to close old raft protocol!!!
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for notifier
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for master task
+
+2022-05-24 11:07:41,137 WARN stop old raft protocol task for heartbeat task
+
+2022-05-24 11:07:41,137 WARN clean old cache datum for old raft
+
+2022-05-24 11:07:41,137 WARN start to move old raft protocol metadata
+
+2022-05-24 11:07:41,139 WARN start to move old raft protocol metadata
+
+2022-05-24 11:07:41,140 INFO raft peers changed: [Member{ip='192.168.101.1', port=8846, state=UP, extendInfo={lastRefreshTime=1653361661139, raftPort=7846, version=1.4.1}}]
+

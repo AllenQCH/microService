@@ -1,0 +1,64 @@
+2022-05-24 10:51:23,435 INFO notifyConnectTimeout:200
+
+2022-05-24 10:51:23,443 INFO notifySocketTimeout:8000
+
+2022-05-24 10:51:23,444 INFO isHealthCheck:true
+
+2022-05-24 10:51:23,444 INFO maxHealthCheckFailCount:12
+
+2022-05-24 10:51:23,444 INFO maxContent:10485760
+
+2022-05-24 10:51:23,444 INFO spring.datasource.platform:mysql
+
+2022-05-24 10:51:35,268 WARN DumpService start
+
+2022-05-24 10:51:35,269 INFO start clear all config-info.
+
+2022-05-24 10:51:35,270 WARN clear all config-info failed.
+
+2022-05-24 10:51:35,270 WARN clear all config-info-tenant failed.
+
+2022-05-24 10:51:35,277 INFO start clear all config-info-beta.
+
+2022-05-24 10:51:35,277 WARN clear all config-info-beta failed.
+
+2022-05-24 10:51:35,278 WARN clear all config-info-beta-tenant failed.
+
+2022-05-24 10:51:35,279 INFO start clear all config-info-tag.
+
+2022-05-24 10:51:35,279 WARN clear all config-info-tag failed.
+
+2022-05-24 10:51:35,279 WARN clear all config-info-tag-tenant failed.
+
+2022-05-24 11:07:17,360 INFO notifyConnectTimeout:200
+
+2022-05-24 11:07:17,363 INFO notifySocketTimeout:8000
+
+2022-05-24 11:07:17,363 INFO isHealthCheck:true
+
+2022-05-24 11:07:17,364 INFO maxHealthCheckFailCount:12
+
+2022-05-24 11:07:17,364 INFO maxContent:10485760
+
+2022-05-24 11:07:17,364 INFO spring.datasource.platform:mysql
+
+2022-05-24 11:07:28,206 WARN DumpService start
+
+2022-05-24 11:07:28,207 INFO start clear all config-info.
+
+2022-05-24 11:07:28,209 WARN clear all config-info failed.
+
+2022-05-24 11:07:28,209 WARN clear all config-info-tenant failed.
+
+2022-05-24 11:07:28,215 INFO start clear all config-info-beta.
+
+2022-05-24 11:07:28,215 WARN clear all config-info-beta failed.
+
+2022-05-24 11:07:28,215 WARN clear all config-info-beta-tenant failed.
+
+2022-05-24 11:07:28,217 INFO start clear all config-info-tag.
+
+2022-05-24 11:07:28,217 WARN clear all config-info-tag failed.
+
+2022-05-24 11:07:28,217 WARN clear all config-info-tag-tenant failed.
+
